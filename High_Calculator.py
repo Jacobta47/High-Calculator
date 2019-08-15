@@ -1,0 +1,5 @@
+print("high calculator")
+amount = int(input('principal amount ?'))
+base = int(420)
+total = (amount + base)
+print(total)
